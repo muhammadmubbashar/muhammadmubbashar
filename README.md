@@ -1,25 +1,16 @@
 # Hi, I'm Muhammad Mubbashar
 
-**AI & Machine Learning · Generative & Agentic AI · RAG · Data Analysis · Software Development**
+**Junior Software Developer · Python Automation · Applied AI**
 
-I work across Python AI applications, machine learning, data analysis and full-stack web projects. I bring one year of professional experience as a **Junior LLM Developer at Remote Solutions (September 2023–September 2024)**, a Computer Science degree, and experience leading an industry-facing university project.
+I build Python applications, API integrations and web-based workflows, with a focus on useful automation and applied AI. I bring one year of professional experience as a **Junior LLM Developer at Remote Solutions (September 2023–September 2024)**, a Computer Science degree, and experience leading an industry-facing university project.
 
 I'm completing a **Master of Information Technology, majoring in Data Science, at QUT**, with completion expected in **December 2026**.
 
-**Seeking graduate and junior roles in AI/ML, data analysis, business analysis and software development.** Based in Brisbane and open to relocation across Australia.
+**Seeking graduate and junior software development, Python automation and applied AI application roles.** Based in Brisbane and open to relocation across Australia.
 
 [LinkedIn](https://www.linkedin.com/in/muhammadmubbashar/) · [Explore my repositories](https://github.com/muhammadmubbashar?tab=repositories)
 
 ## Selected projects
-
-### [Smart Grocery Recommendations — machine learning and data analysis](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System)
-
-**Python · pandas · scikit-learn · Streamlit**
-
-A portfolio project exploring grocery reorder prediction using Instacart data. The implementation includes data preparation, purchase-history feature engineering, logistic regression and gradient boosting, with model evaluation and an interactive recommendation interface.
-
-- [Data preparation and model training](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System/tree/HEAD/Real_Time_Smart_Grocery_Recommendation_System/components)
-- [Analysis notebook](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System/blob/HEAD/notebook/groceery.ipynb) and [Streamlit interface](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System/blob/HEAD/app.py)
 
 ### [Prescription Dispense — full-stack web application](https://github.com/muhammadmubbashar/Prescription-Dispense)
 
@@ -53,13 +44,22 @@ This was an academic industry capstone. Results came from sandbox experiments; t
 - [Public numerical verification](https://github.com/muhammadmubbashar/GEO--Generative-Engine-Optimisation/blob/HEAD/scripts/verify_public_counts.py)
 - [Technical report and handover](https://github.com/muhammadmubbashar/GEO--Generative-Engine-Optimisation/blob/HEAD/docs/GEO_Technical_Report_and_Handover_Guide_Team62.pdf)
 
+### [Smart Grocery Recommendations — machine learning and data analysis](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System)
+
+**Python · pandas · scikit-learn · Streamlit**
+
+A portfolio project exploring grocery reorder prediction using Instacart data. The implementation includes data preparation, purchase-history feature engineering, logistic regression and gradient boosting, with model evaluation and an interactive recommendation interface.
+
+- [Data preparation and model training](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System/tree/HEAD/Real_Time_Smart_Grocery_Recommendation_System/components)
+- [Analysis notebook](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System/blob/HEAD/notebook/groceery.ipynb) and [Streamlit interface](https://github.com/muhammadmubbashar/Real-Time-Smart-Grocery-Recommendation-System/blob/HEAD/app.py)
+
 ## Professional experience
 
 At **Remote Solutions**, I built document-grounded question-answering applications using **Python, Django, LangChain and Hugging Face**. My work included a research-paper assistant that connected generated answers to supporting references through a web interface.
 
-## Business analysis and communication
+## Team delivery and communication
 
-My QUT capstone gave me experience clarifying an ambiguous brief with industry stakeholders, defining scope, coordinating a six-person team, evaluating findings and communicating practical recommendations to senior leadership. This is the experience I would bring to a graduate business analyst role, alongside the ability to work with data and understand software implementation.
+My QUT capstone gave me experience clarifying an ambiguous brief with industry stakeholders, defining scope, coordinating a six-person team, evaluating findings and communicating practical recommendations to senior leadership. I bring this approach to software delivery: clarify the problem, coordinate implementation and testing, and explain results and limitations clearly.
 
 ## Skills I use
 
@@ -73,4 +73,4 @@ I enjoy breaking unclear problems into manageable tasks, checking what the evide
 
 ## Let's connect
 
-For graduate or junior opportunities in AI/ML, generative or agentic AI, data analysis, business analysis or software development, [message me on LinkedIn](https://www.linkedin.com/in/muhammadmubbashar/).
+For graduate or junior software, Python automation or applied AI opportunities, [message me on LinkedIn](https://www.linkedin.com/in/muhammadmubbashar/).
