@@ -1,12 +1,12 @@
 # Hi, I'm Muhammad Mubbashar
 
-**Junior Software Developer · Python Automation · Applied AI**
+**Junior Full-Stack Software Engineer · React, Node.js and Python · Applied AI**
 
-I build Python applications, API integrations and web-based workflows, with a focus on useful automation and applied AI. I bring one year of professional experience as a **Junior LLM Developer at Remote Solutions (September 2023–September 2024)**, a Computer Science degree, and experience leading an industry-facing university project.
+I build web applications end to end: React front ends, Node.js and Python APIs, automated tests and deployment. I bring one year of professional experience as a **Junior LLM Developer at Remote Solutions (September 2023–September 2024)**, a Computer Science degree, and experience leading a six-person team on an industry project with **Flight Centre Travel Group**.
 
 I'm completing a **Master of Information Technology, majoring in Data Science, at QUT**, with completion expected in **December 2026**.
 
-**Seeking graduate and junior software development, Python automation and applied AI application roles.** Based in Brisbane and open to relocation across Australia.
+**Seeking junior and graduate software engineering roles across the full stack.** Based in Brisbane and open to relocation across Australia.
 
 [LinkedIn](https://www.linkedin.com/in/muhammadmubbashar/) · [Explore my repositories](https://github.com/muhammadmubbashar?tab=repositories)
 
